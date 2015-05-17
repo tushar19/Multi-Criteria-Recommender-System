@@ -6,7 +6,6 @@ import math
 from numpy import genfromtxt
 import re
 
-
 data_features_file = 'Features.txt'
 data_features_train_file = 'features_data_train.txt'
 data_features_test_file = 'features_data_test.txt'
